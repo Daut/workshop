@@ -1,7 +1,7 @@
 {
   "name": "workshop",
   "version": "0.1.0",
-  "description": "Javascript programming drills coded as part of the Vast.com FE team programming workshop.",
+  "description": "Javascript implemantations of the programming exercises created during Vast.com FE team programming workshop sessions.",
   "main": "./",
   "scripts": {
     "test": "mocha -R spec */tests.js"
