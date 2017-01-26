@@ -1,0 +1,18 @@
+/**
+ * This is the base ESLint config for the whole project. It extends
+ * "eslint-config-vast" which extends "eslint:recommended".
+ *
+ * Configs/overrides for client and shared (client/server) code are located
+ * in their respective folders.
+ */
+{
+    "extends": "eslint-config-vast",
+    "globals": {
+        "describe": false,
+        "it": false
+    },
+    "rules": {
+        "object-shorthand": ["error", "consistent-as-needed"],
+        "no-bitwise": "off"
+    }
+}

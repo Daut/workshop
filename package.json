@@ -1,0 +1,34 @@
+{
+  "name": "workshop",
+  "version": "0.1.0",
+  "description": "Javascript programming drills coded as part of the Vast.com FE team programming workshop.",
+  "main": "./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daut/workshop.git"
+  },
+  "keywords": [
+    "programming",
+    "algorithms",
+    "data",
+    "structures",
+    "workshop",
+    "Vast",
+    "coding"
+  ],
+  "author": "Daut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daut/workshop/issues"
+  },
+  "homepage": "https://github.com/Daut/workshop#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0",
+    "eslint": "3.9.0",
+    "eslint-config-vast": "1.6.3"
+  }
+}
