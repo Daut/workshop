@@ -4,7 +4,7 @@
   "description": "Javascript programming drills coded as part of the Vast.com FE team programming workshop.",
   "main": "./",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -R spec */tests.js"
   },
   "repository": {
     "type": "git",

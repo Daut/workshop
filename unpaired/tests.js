@@ -1,4 +1,4 @@
-/* eslint no-unused-vars: ["should"] */
+/* eslint no-unused-vars: ["off", {"varsIgnorePattern": "should"}] */
 
 'use strict';
 
