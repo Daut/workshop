@@ -4,7 +4,7 @@
   "description": "Javascript implemantations of the programming exercises created during Vast.com FE team programming workshop sessions.",
   "main": "./",
   "scripts": {
-    "test": "mocha -R spec */tests.js"
+    "test": "mocha -R spec tests/*-test.js"
   },
   "repository": {
     "type": "git",
